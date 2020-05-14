@@ -25,6 +25,7 @@
 - /Jmeter_Test/FTP Request.jmx - тестовый план в формате Apache Jmeter
 - /notebook/analysis.md - файл блокнота Jupiter экпортированный в формат markdown
 - analysis.ipynb - файл блокнота Jupiter
+- analysis.html - файл блокнота Jupiter в формате HTML
 - Dockerfile - файл для создания контейнера (билдскрипт)
 - file_gen.py - генератор файлов с двоичным содержимым
 - fix.sh - скрипт, который чинит пароли
