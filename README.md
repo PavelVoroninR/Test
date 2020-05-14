@@ -23,7 +23,8 @@
 Список артефактов:
 - /input/*.csv - файлы данных для анализа
 - /Jmeter_Test/FTP Request.jmx - тестовый план в формате Apache Jmeter
-- analysis.ipynb файл блокнота Jupiter
+- /notebook/analysis.md - файл блокнота Jupiter экпортированный в формат markdown
+- analysis.ipynb - файл блокнота Jupiter
 - Dockerfile - файл для создания контейнера (билдскрипт)
 - file_gen.py - генератор файлов с двоичным содержимым
 - fix.sh - скрипт, который чинит пароли
